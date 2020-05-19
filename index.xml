@@ -12,6 +12,16 @@
     
     
     <item>
+      <title>Speed Comparison</title>
+      <link>https://anfe67.github.io/posts/speed-comparison/</link>
+      <pubDate>Tue, 19 May 2020 22:50:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/posts/speed-comparison/</guid>
+      <description>Comparison of web technologies for speed (almost unoptimized) Not being a professional web developer, but just toying with the various technologies available, I just wanted to compare a few of them for what concerns pure speed. For this, I used the web site GTMetrix.
+I run the test comparing five web sites, this one which is authored in Hugo, and a few others presented in other articles in these pages. The SaF IT Services is a simple Bootstrap single page web site, and the other three are wordpress sites, two of which are hosted on freely provided names and web space, also discussed here,</description>
+    </item>
+    
+    <item>
       <title>Idées Suspendues</title>
       <link>https://anfe67.github.io/posts/idees/</link>
       <pubDate>Tue, 19 May 2020 11:51:29 +0200</pubDate>

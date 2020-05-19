@@ -6,10 +6,19 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2020 11:51:29 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 19 May 2020 22:50:29 +0200</lastBuildDate>
     
 	<atom:link href="https://anfe67.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Web Development</title>
+      <link>https://anfe67.github.io/categories/web-development/</link>
+      <pubDate>Tue, 19 May 2020 22:50:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/categories/web-development/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Website Development</title>
@@ -17,15 +26,6 @@
       <pubDate>Tue, 19 May 2020 11:51:29 +0200</pubDate>
       
       <guid>https://anfe67.github.io/categories/website-development/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Web Development</title>
-      <link>https://anfe67.github.io/categories/web-development/</link>
-      <pubDate>Tue, 19 May 2020 11:50:29 +0200</pubDate>
-      
-      <guid>https://anfe67.github.io/categories/web-development/</guid>
       <description></description>
     </item>
     

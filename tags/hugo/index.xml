@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Bootstrap on </title>
-    <link>https://anfe67.github.io/tags/bootstrap/</link>
-    <description>Recent content in Bootstrap on </description>
+    <title>Hugo on </title>
+    <link>https://anfe67.github.io/tags/hugo/</link>
+    <description>Recent content in Hugo on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 19 May 2020 22:50:29 +0200</lastBuildDate>
     
-	<atom:link href="https://anfe67.github.io/tags/bootstrap/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://anfe67.github.io/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -19,18 +19,6 @@
       <guid>https://anfe67.github.io/posts/speed-comparison/</guid>
       <description>Comparison of web technologies for speed (almost unoptimized) Not being a professional web developer, but just toying with the various technologies available, I just wanted to compare a few of them for what concerns pure speed. For this, I used the web site GTMetrix.
 I run the test comparing five web sites, this one which is authored in Hugo, and a few others presented in other articles in these pages. The SaF IT Services is a simple Bootstrap single page web site, and the other three are wordpress sites, two of which are hosted on freely provided names and web space, also discussed here,</description>
-    </item>
-    
-    <item>
-      <title>SaF IT Services</title>
-      <link>https://anfe67.github.io/posts/safits/</link>
-      <pubDate>Tue, 19 May 2020 11:50:29 +0200</pubDate>
-      
-      <guid>https://anfe67.github.io/posts/safits/</guid>
-      <description>SaF IT Services web site A little bit over a year ago I founded, together with Fritz and Stefy our company, SaF IT Services. The web site
-is hosted by Easyhost Belgium and is an extremely simple one, it is based on:
- HTML CSS Bootstrap JS  I have used a free bootstrap template called Freelancer to implement the site, for which the important parameters were :
- Speed Look (should not be too bad as I am not a designer but I can spot something ugly) Content  The site could be further optimized by slimming down the various js files that it imports and of which only a minimal part are used.</description>
     </item>
     
   </channel>
