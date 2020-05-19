@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Web Development on </title>
+    <link>https://anfe67.github.io/categories/web-development/</link>
+    <description>Recent content in Web Development on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 May 2020 11:50:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/categories/web-development/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SaF IT Services</title>
+      <link>https://anfe67.github.io/posts/safits/</link>
+      <pubDate>Tue, 19 May 2020 11:50:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/posts/safits/</guid>
+      <description>SaF IT Services web site A little bit over a year ago I founded, together with Fritz and Stefy our company, SaF IT Services. The web site
+is hosted by Easyhost Belgium and is an extremely simple one, it is based on:
+ HTML CSS Bootstrap JS  I have used a free bootstrap template called Freelancer to implement the site, for which the important parameters were :
+ Speed Look (should not be too bad as I am not a designer but I can spot something ugly) Content  The site could be further optimized by slimming down the various js files that it imports and of which only a minimal part are used.</description>
+    </item>
+    
+    <item>
+      <title>Apprenons Python</title>
+      <link>https://anfe67.github.io/posts/app-python/</link>
+      <pubDate>Tue, 19 May 2020 11:35:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/posts/app-python/</guid>
+      <description>Apprenons Python Apprenons Python en jouant is a website I built to keep track of a trip into teaching Python programming to kids.
+The site started as a way to respond to the innocent question from my son and one of his friends: How do you write a video game.
+We started this trip a couple of years ago and since then we have explored the world of text based gaming, graphics based gaming, web development, physical computing (with the raspberry pi) etc.</description>
+    </item>
+    
+    <item>
+      <title>Data Science day by day</title>
+      <link>https://anfe67.github.io/posts/datascience-dbd/</link>
+      <pubDate>Tue, 19 May 2020 11:34:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/posts/datascience-dbd/</guid>
+      <description>Data Science day by day Data Science day by day is my Data Science learning blog. In 2015, I started learning about Data Science and ML, being a seasoned IT Professional it did not sound at all new to me. But I wanted to learn and to keep up to date with the most recent developments,
+I wanted to brush up my stats and maths, I wanted to be current (or as current as I can).</description>
+    </item>
+    
+    <item>
+      <title>DS Capstone Project</title>
+      <link>https://anfe67.github.io/posts/ds-capstone/</link>
+      <pubDate>Tue, 19 May 2020 11:27:13 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/posts/ds-capstone/</guid>
+      <description>Data Science Specialization - Capstone Project This project is the closing chapter of the JHU / Coursera Data Science specialization MOOC. The Capstone project consisted in building an &amp;ldquo;intelligent keyboard&amp;rdquo;, that tried to guess the next word based on what you type. It will also detect any bad language and clean it.
+I took a slightly different approach to all implementations that I have seen, going for a solution where the datagram database is implemented in SQLLite.</description>
+    </item>
+    
+  </channel>
+</rss>

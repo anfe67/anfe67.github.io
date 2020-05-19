@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on </title>
+    <link>https://anfe67.github.io/categories/r/</link>
+    <description>Recent content in R on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 May 2020 11:34:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science day by day</title>
+      <link>https://anfe67.github.io/posts/datascience-dbd/</link>
+      <pubDate>Tue, 19 May 2020 11:34:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/posts/datascience-dbd/</guid>
+      <description>Data Science day by day Data Science day by day is my Data Science learning blog. In 2015, I started learning about Data Science and ML, being a seasoned IT Professional it did not sound at all new to me. But I wanted to learn and to keep up to date with the most recent developments,
+I wanted to brush up my stats and maths, I wanted to be current (or as current as I can).</description>
+    </item>
+    
+    <item>
+      <title>DS Capstone Project</title>
+      <link>https://anfe67.github.io/posts/ds-capstone/</link>
+      <pubDate>Tue, 19 May 2020 11:27:13 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/posts/ds-capstone/</guid>
+      <description>Data Science Specialization - Capstone Project This project is the closing chapter of the JHU / Coursera Data Science specialization MOOC. The Capstone project consisted in building an &amp;ldquo;intelligent keyboard&amp;rdquo;, that tried to guess the next word based on what you type. It will also detect any bad language and clean it.
+I took a slightly different approach to all implementations that I have seen, going for a solution where the datagram database is implemented in SQLLite.</description>
+    </item>
+    
+    <item>
+      <title>Developing Data Products</title>
+      <link>https://anfe67.github.io/posts/d-d-d/</link>
+      <pubDate>Tue, 19 May 2020 11:25:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/posts/d-d-d/</guid>
+      <description>Developing Data Products This is one of the MOOCs of the JHU/Coursera Data Science specialization. It is the course in which you familiarise with producing Data Science products that other people can use to explore the data, as well as producing interactive presentations from R using Rmarkdown.
+ The presentation can be found on Github The little R/Shiny application can be found on shinyapps.io  </description>
+    </item>
+    
+  </channel>
+</rss>

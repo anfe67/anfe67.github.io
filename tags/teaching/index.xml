@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>teaching on </title>
+    <link>https://anfe67.github.io/tags/teaching/</link>
+    <description>Recent content in teaching on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 May 2020 11:35:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/tags/teaching/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apprenons Python</title>
+      <link>https://anfe67.github.io/posts/app-python/</link>
+      <pubDate>Tue, 19 May 2020 11:35:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/posts/app-python/</guid>
+      <description>Apprenons Python Apprenons Python en jouant is a website I built to keep track of a trip into teaching Python programming to kids.
+The site started as a way to respond to the innocent question from my son and one of his friends: How do you write a video game.
+We started this trip a couple of years ago and since then we have explored the world of text based gaming, graphics based gaming, web development, physical computing (with the raspberry pi) etc.</description>
+    </item>
+    
+  </channel>
+</rss>

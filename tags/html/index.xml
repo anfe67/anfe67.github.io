@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HTML on </title>
+    <link>https://anfe67.github.io/tags/html/</link>
+    <description>Recent content in HTML on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 May 2020 11:50:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/tags/html/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SaF IT Services</title>
+      <link>https://anfe67.github.io/posts/safits/</link>
+      <pubDate>Tue, 19 May 2020 11:50:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/posts/safits/</guid>
+      <description>SaF IT Services web site A little bit over a year ago I founded, together with Fritz and Stefy our company, SaF IT Services. The web site
+is hosted by Easyhost Belgium and is an extremely simple one, it is based on:
+ HTML CSS Bootstrap JS  I have used a free bootstrap template called Freelancer to implement the site, for which the important parameters were :
+ Speed Look (should not be too bad as I am not a designer but I can spot something ugly) Content  The site could be further optimized by slimming down the various js files that it imports and of which only a minimal part are used.</description>
+    </item>
+    
+  </channel>
+</rss>
