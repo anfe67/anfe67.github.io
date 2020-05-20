@@ -73,8 +73,6 @@
   
 
   
-       <a href="javascript:void(0)" class="w3-bar-item w3-button w3-hover-green" title="Search" onclick="displaysearch()"><i class="fa fa-search"></i></a>
-  
       <span class="w3-hide-small">
 
       </span>
@@ -134,33 +132,6 @@ function displaymenu() {
 }
 </script>
 
-
-
-  <div id="searchOverlay" class="overlay w3-hide">
-    <span class="closebtn" onclick="displaysearch()" title="Close Overlay">×</span>
-    <div class="overlay-content">
-        <form action="/search/">
-          <input type="text" placeholder="Search.." name="q">
-          <button type="submit"><i class="fa fa-search"></i></button>
-        </form>
-    </div>
-  </div>
-
-  <script>
-  function displaysearch() {
-    var x = document.getElementById("searchOverlay");
-    if (x.className.indexOf("w3-show") == -1) {
-        x.className += " w3-show";
-    } else { 
-        x.className = x.className.replace(" w3-show", "");
-    }
-      
-  }
-
- 
-  </script>
-
-  
 
 
     
