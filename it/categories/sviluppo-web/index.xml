@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sviluppo Web on </title>
+    <link>https://anfe67.github.io/it/categories/sviluppo-web/</link>
+    <description>Recent content in Sviluppo Web on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 14:50:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/it/categories/sviluppo-web/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Siti multilingua con Hugo</title>
+      <link>https://anfe67.github.io/it/posts/multilingual/</link>
+      <pubDate>Mon, 25 May 2020 14:50:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/multilingual/</guid>
+      <description>Siti multilingua con Hugo A che velocità si può tradurre un sito web? Dipende naturalmente da parecchie cose. Il mio test riguarda l&amp;rsquo;aggiunta di una nuova lingua a un sito Hugo esistente, (ho scelto l&amp;rsquo;Italiano) e di tradurre l&amp;rsquo;intero sito che al momento conta 9 articoli, la pagina delle informazioni, il titolo e il menu. Il tutto può essere fatto in circa 1 ora e mezza, senza correre a perdifiato. Dopodiché, il sito sarà pronto ad accogliere le versioni in lingua dei nuovi articoli, che potranno anche essere create in un secondo momento.</description>
+    </item>
+    
+    <item>
+      <title>Confronto della Velocità</title>
+      <link>https://anfe67.github.io/it/posts/confronto-tecniche/</link>
+      <pubDate>Mon, 25 May 2020 13:50:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/confronto-tecniche/</guid>
+      <description>Messa a confronto di diverse tecnologie web per quanto riguarda la velocità (senza ottimizzazioni) Non sono uno sviluppatore web professionista, ma mi piace giocare con le varie tecnologie a disposizione. Volevo confrontarne alcune allo scopo di valutare la velocità dei siti ottenuti impiegando queste tecnologie. Per i confronti, ho usato principalmente il sito GTMetrix.
+Ho eseguito i test confrontando cinque siti web, di cui sono l&amp;rsquo;autore. Questo, che è redatto usando Hugo, e gli altri presentati in altri articoli su queste pagine.</description>
+    </item>
+    
+    <item>
+      <title>Data Science day by day</title>
+      <link>https://anfe67.github.io/it/posts/datascience-dbd/</link>
+      <pubDate>Mon, 25 May 2020 11:34:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/datascience-dbd/</guid>
+      <description>Data Science day by day Data Science day by day è il mio sito dedicato alla Scienza dei Dati o &amp;ldquo;Data Science&amp;rdquo;. Nel 2015 ho iniziato ad esplorare i campi del Data Science, Machine Learning etc.
+Sono un informatico di lungo corso e tutto questo non mi suonava affatto nuovo. Ma ho voluto imparare e aggiornarmi con gli sviluppi più recenti, mettermi in linea con le terminologie e gli strumenti.</description>
+    </item>
+    
+    <item>
+      <title>Progetto Capstone Specializzazione DS</title>
+      <link>https://anfe67.github.io/it/posts/ds-capstone/</link>
+      <pubDate>Mon, 25 May 2020 11:27:13 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/ds-capstone/</guid>
+      <description>Specializzazione Data Science - Progetto Capstone Questo progetto rappresenta il capitolo (corso MOOC) finale della [Specializzazione in Data Science della JHU su Coursera] (https://www.coursera.org/specializations/jhu-data-science).
+Il progetto consiste nel costruire una &amp;ldquo;tastiera intelligente&amp;rdquo; che prova ad indovinare la prossima parola digitata basandosi su quanto digitato fino ad ora. Le predizioni sono fatte sulla base di una serie di testi (articoli, tweets e emails). Il programma deve anche esser capace di capire se si sta usando delle parolacce ed eliminarle dal testo digitato.</description>
+    </item>
+    
+    <item>
+      <title>SaF IT Services</title>
+      <link>https://anfe67.github.io/it/posts/safits/</link>
+      <pubDate>Tue, 19 May 2020 11:50:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/safits/</guid>
+      <description>Il sito wed di SaF IT Services Circa un anno fa, ho fondato insieme a Fritz e Stefy la nostra società, SaF IT Services. Il sito web è ospitato da Easyhost Belgium ed è un sito semplice, che si basa solo su:
+ HTML CSS Bootstrap JS  Per realizzare il sito ho usato un template bootstrap liberamente disponibile che si chiama Freelancer. Nel realizzare questo sito ho tenuto conto di questi parametri che per me erano importanti:</description>
+    </item>
+    
+    <item>
+      <title>Apprenons Python</title>
+      <link>https://anfe67.github.io/it/posts/app-python/</link>
+      <pubDate>Tue, 19 May 2020 11:35:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/app-python/</guid>
+      <description>Apprenons Python Apprenons Python en jouant è un sito che ho costruito come complemento ad un viaggio che ho intrapreso nell&amp;rsquo;insegnamento della programmazione Python per ragazzi.
+Il sito (e tutto il resto) è iniziato come tentativo di rispondere ad una domanda molto innocente da parte di mio figlio e di uno dei suoi amici: &amp;ldquo;come si scrive un videogioco&amp;rdquo;.
+Questo nostro viaggio è iniziato un paio di anni fa e da allora abbiamo esplorato il mondo dei videogiochi testuali, quelli grafici, abbiamo fatto un po&amp;rsquo; di sviluppo web, di &amp;ldquo;informatica fisica&amp;rdquo; con il Raspberry Pi&amp;hellip; eccetera.</description>
+    </item>
+    
+  </channel>
+</rss>

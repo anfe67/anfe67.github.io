@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>R on </title>
+    <link>https://anfe67.github.io/it/categories/r/</link>
+    <description>Recent content in R on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 11:34:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/it/categories/r/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science day by day</title>
+      <link>https://anfe67.github.io/it/posts/datascience-dbd/</link>
+      <pubDate>Mon, 25 May 2020 11:34:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/datascience-dbd/</guid>
+      <description>Data Science day by day Data Science day by day è il mio sito dedicato alla Scienza dei Dati o &amp;ldquo;Data Science&amp;rdquo;. Nel 2015 ho iniziato ad esplorare i campi del Data Science, Machine Learning etc.
+Sono un informatico di lungo corso e tutto questo non mi suonava affatto nuovo. Ma ho voluto imparare e aggiornarmi con gli sviluppi più recenti, mettermi in linea con le terminologie e gli strumenti.</description>
+    </item>
+    
+    <item>
+      <title>Progetto Capstone Specializzazione DS</title>
+      <link>https://anfe67.github.io/it/posts/ds-capstone/</link>
+      <pubDate>Mon, 25 May 2020 11:27:13 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/ds-capstone/</guid>
+      <description>Specializzazione Data Science - Progetto Capstone Questo progetto rappresenta il capitolo (corso MOOC) finale della [Specializzazione in Data Science della JHU su Coursera] (https://www.coursera.org/specializations/jhu-data-science).
+Il progetto consiste nel costruire una &amp;ldquo;tastiera intelligente&amp;rdquo; che prova ad indovinare la prossima parola digitata basandosi su quanto digitato fino ad ora. Le predizioni sono fatte sulla base di una serie di testi (articoli, tweets e emails). Il programma deve anche esser capace di capire se si sta usando delle parolacce ed eliminarle dal testo digitato.</description>
+    </item>
+    
+    <item>
+      <title>Developing Data Products</title>
+      <link>https://anfe67.github.io/it/posts/d-d-d/</link>
+      <pubDate>Tue, 19 May 2020 11:25:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/d-d-d/</guid>
+      <description>Developing Data Products Questo è uno dei MOOC della Specializzazione in Data Science della JHU su Coursera. Si tratta del corso in cui ci si familiarizza con la produzione di prodotti con cui si da la possibilità ad altre persone di esplorare i dati interattivamente, e anche con la produzione di presentazioni interattive direttamente da R Studio usando il linguaggio Rmarkdown.
+ La presentazione si trova su Github La piccola applicazione R/Shiny si trova su shinyapps.</description>
+    </item>
+    
+  </channel>
+</rss>

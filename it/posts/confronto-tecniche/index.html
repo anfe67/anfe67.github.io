@@ -1,0 +1,563 @@
+
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  
+  <meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+
+  <meta http-equiv="Cache-Control" content="public" />
+ 
+<!-- Enable responsiveness on mobile devices -->
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
+<meta name="generator" content="Hugo 0.70.0" />
+
+    
+    
+    
+
+<title>Confronto della Velocità • Briciole Digitali...</title>
+
+
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Confronto della Velocità"/>
+<meta name="twitter:description" content="Messa a confronto di diverse tecnologie web per quanto riguarda la velocità (senza ottimizzazioni) Non sono uno sviluppatore web professionista, ma mi piace giocare con le varie tecnologie a disposizione. Volevo confrontarne alcune allo scopo di valutare la velocità dei siti ottenuti impiegando queste tecnologie. Per i confronti, ho usato principalmente il sito GTMetrix.
+Ho eseguito i test confrontando cinque siti web, di cui sono l&rsquo;autore. Questo, che è redatto usando Hugo, e gli altri presentati in altri articoli su queste pagine."/>
+
+<meta property="og:title" content="Confronto della Velocità" />
+<meta property="og:description" content="Messa a confronto di diverse tecnologie web per quanto riguarda la velocità (senza ottimizzazioni) Non sono uno sviluppatore web professionista, ma mi piace giocare con le varie tecnologie a disposizione. Volevo confrontarne alcune allo scopo di valutare la velocità dei siti ottenuti impiegando queste tecnologie. Per i confronti, ho usato principalmente il sito GTMetrix.
+Ho eseguito i test confrontando cinque siti web, di cui sono l&rsquo;autore. Questo, che è redatto usando Hugo, e gli altri presentati in altri articoli su queste pagine." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://anfe67.github.io/it/posts/confronto-tecniche/" />
+<meta property="article:published_time" content="2020-05-25T13:50:29+02:00" />
+<meta property="article:modified_time" content="2020-05-25T13:50:29+02:00" /><meta property="og:site_name" content="Briciole Digitali..." />
+
+
+
+<link rel="canonical" href="https://anfe67.github.io/it/posts/confronto-tecniche/" />
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+
+
+
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Allerta+Stencil">
+
+<link rel="stylesheet" href="/css/w3.css" />
+
+
+<link rel="stylesheet" href="/css/style.css" />
+
+
+
+
+
+
+
+
+
+  
+  
+</head>
+<body class="w3-light-grey">
+
+
+    
+    <header id="header">
+         
+        <div class="w3-right ">
+<div class="w3-bar w3-light-grey  ">
+  
+
+  
+      <span class="w3-hide-small">
+
+      </span>
+  
+</div>
+</div>
+<br>
+  <div class="w3-content">
+  
+  <div class="w3-container w3-center w3-padding-32 w3-hide-small"> 
+      <h1 class="w3-xxxlarge w3-text-blue w3-wide w3-allerta  glow  " style="text-shadow:1px 1px 0 #444" ><u>
+      
+         Briciole digitali...
+      
+</u></h1>
+      
+    </div>
+    <div class="w3-content w3-center">
+    <div class="w3-bar w3-light-grey w3-border">
+    <a href="/it/" class="w3-bar-item w3-button w3-large w3-green"><i class="fa fa-home"></i></a>
+    
+      <a href="/it/informazioni/" class="w3-bar-item w3-button w3-hide-small">Informazioni</a>
+    
+      <a href="/it/categorie/" class="w3-bar-item w3-button w3-hide-small">Categorie</a>
+    
+      <a href="/it/etichette/" class="w3-bar-item w3-button w3-hide-small">Etichette</a>
+    
+      <a href="/it/allposts/" class="w3-bar-item w3-button w3-hide-small">Tutti gli articoli</a>
+    
+      <a href="/" class="w3-bar-item w3-button w3-hide-small">English</a>
+    
+   
+    
+    <a href="javascript:void(0)" class="w3-bar-item w3-button w3-right w3-hide-large w3-hide-medium" onclick="displaymenu()">&#9776;</a>
+  </div>
+
+<div id="mobilemenu" class="w3-bar-block w3-light-grey w3-hide w3-hide-large w3-hide-medium">
+  
+      <a href="/it/informazioni/" class="w3-bar-item w3-button">Informazioni</a>
+      
+      <a href="/it/categorie/" class="w3-bar-item w3-button">Categorie</a>
+      
+      <a href="/it/etichette/" class="w3-bar-item w3-button">Etichette</a>
+      
+      <a href="/it/allposts/" class="w3-bar-item w3-button">Tutti gli articoli</a>
+      
+      <a href="/" class="w3-bar-item w3-button">English</a>
+      
+  
+</div>
+</div>
+</div>
+<script>
+function displaymenu() {
+    var x = document.getElementById("mobilemenu");
+    if (x.className.indexOf("w3-show") == -1) {
+        x.className += " w3-show";
+    } else { 
+        x.className = x.className.replace(" w3-show", "");
+    }
+}
+</script>
+
+
+
+    
+    <hr class="headfoot">
+   
+      
+    </header>
+    
+<div class="w3-content">
+    
+      <div>
+        
+        <div id="content" >
+          
+    
+
+      <div id="toc" class="w3-dropdown-hover w3-hide-small w3-hide-medium">
+    <button class="w3-button w3-teal w3-xlarge">&#9776;</button>
+    <div class="w3-dropdown-content w3-bar-block w3-border" style="right:0">
+         
+          <h3 class="w3-center">Contents </h3>
+            <nav id="TableOfContents">
+  <ul>
+    <li><a href="#il-vincitore-hugo">Il vincitore: Hugo!</a></li>
+    <li><a href="#secondo-sito-bootstrap-a-singola-pagina">Secondo: Sito bootstrap a singola pagina</a></li>
+    <li><a href="#pari-merito-blog-wordpress-su-siti-ospitati-gratuitamente">Pari merito: Blog Wordpress su siti ospitati gratuitamente</a></li>
+    <li><a href="#ultimo-piattaforma-wordpress-per-la-raccolta-di-idee">Ultimo: Piattaforma Wordpress per la raccolta di idee</a></li>
+    <li><a href="#altro-confronto">Altro confronto</a></li>
+  </ul>
+</nav>
+         
+      </div>
+
+     
+      </div>
+    
+
+ 
+     
+
+
+  <div class="w3-content w3-card-4" >
+    
+    <header class="w3-container w3-center w3-padding-32">
+      <h1>Confronto della Velocità</h1>
+
+      <div >
+        <p> 2020-05-25 
+          
+        </p>
+        <div >
+            
+              <a class="w3-btn w3-small w3-round w3-green" href="/it/categories/sviluppo-web/"> Sviluppo Web </a>
+            
+          </div>
+       
+        
+      </div>
+    </header>
+
+   
+    
+    <div class="w3-container">
+      
+        
+
+        
+        
+
+        
+          
+          
+          <h1 id="messa-a-confronto-di-diverse-tecnologie-web-per-quanto-riguarda-la-velocità-senza-ottimizzazioni">Messa a confronto di diverse tecnologie web per quanto riguarda la velocità (senza ottimizzazioni)</h1>
+<p>Non sono uno sviluppatore web professionista, ma mi piace giocare con le varie tecnologie a
+disposizione. Volevo confrontarne alcune allo scopo di valutare la velocità dei siti ottenuti
+impiegando queste tecnologie. Per i confronti, ho usato principalmente il sito <a href="https://gtmetrix.com/">GTMetrix</a>.</p>
+<p>Ho eseguito i test confrontando cinque siti web, di cui sono l&rsquo;autore. Questo, che è redatto
+usando <a href="https://gohugo.io">Hugo</a>, e gli altri presentati in altri articoli su queste pagine. Il
+sito <a href="https://safits.be">SaF IT Services</a> è un semplice sito Bootstrap a singola pagina, gli
+altri tre sono siti wordpress, due dei quali sono ospitati su provider che offrono dello spazio
+gratuito.</p>
+<p>I risultati sono affascinanti, e molto chiaramente a favore di Hugo. Il sito Bootstrap soffre
+il fatto di importare molto tra CSS e JS e che molto di quanto importato non è in realtà usato.
+I siti Wordpress, infine, cedono il passo impietosamente nel confronto, specialmente quello più
+elaborato che contiene una grande pagina iniziale.</p>
+<p>Questi sono i risultati:</p>
+<h2 id="il-vincitore-hugo">Il vincitore: Hugo!</h2>
+<p><img src="/placeholder.svg" data-src="/speed1.png" alt="Hugo"></p>
+<h2 id="secondo-sito-bootstrap-a-singola-pagina">Secondo: Sito bootstrap a singola pagina</h2>
+<p><img src="/placeholder.svg" data-src="/speed2.png" alt="Bootstrap"></p>
+<h2 id="pari-merito-blog-wordpress-su-siti-ospitati-gratuitamente">Pari merito: Blog Wordpress su siti ospitati gratuitamente</h2>
+<p><img src="/placeholder.svg" data-src="/speed3.png" alt="Apprenons Python">
+<img src="/placeholder.svg" data-src="/speed4.png" alt="Data Science blog"></p>
+<h2 id="ultimo-piattaforma-wordpress-per-la-raccolta-di-idee">Ultimo: Piattaforma Wordpress per la raccolta di idee</h2>
+<p><img src="/placeholder.svg" data-src="/speed5.png" alt="Idées Suspendues"></p>
+<h2 id="altro-confronto">Altro confronto</h2>
+<p>Ho deciso di provare anche <a href="https://developers.google.com/speed/pagespeed/insights/">Google PageSpeed Insights</a>,
+e ho provato con gli stessi siti ovviamente. La tabella riassume i punteggi.</p>
+<table>
+<thead>
+<tr>
+<th>Sito</th>
+<th>Tecnologia</th>
+<th>Punteggio</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><a href="https://anfe67@github.io">https://anfe67@github.io</a></td>
+<td>Hugo</td>
+<td><em><strong>94</strong></em></td>
+</tr>
+<tr>
+<td><a href="https://safits.be">https://safits.be</a></td>
+<td>Bootstrap</td>
+<td><strong>84</strong></td>
+</tr>
+<tr>
+<td><a href="http://apprenons-python.c1.biz/">http://apprenons-python.c1.biz/</a></td>
+<td>Wordpress</td>
+<td><strong>46</strong></td>
+</tr>
+<tr>
+<td><a href="http://antonio-ferraro.eu5.net/">http://antonio-ferraro.eu5.net/</a></td>
+<td>Wordpress</td>
+<td><strong>42</strong></td>
+</tr>
+<tr>
+<td><a href="https://ideessuspendues.be">https://ideessuspendues.be</a></td>
+<td>Wordpress</td>
+<td><strong>37</strong></td>
+</tr>
+</tbody>
+</table>
+<h1 id="conclusione">Conclusione</h1>
+<p>Hugo comporta delle piccole difficoltà iniziali, come tutto tra l&rsquo;altro. Se si vuole ottenere una qualsiasi
+forma di risultato, allora ci si deve impegnare. Ma in meno di un giorno è possibile andare online con una
+presenza (sito personale o blog). Dopo questo step, tutto dovrebbe filare in maniera più spedita che con altre
+piattaforme, e il sito web sarà verosimilmente più veloce di quelli prodotti con uno sforzo simile usando
+altre piattaforme più &ldquo;facili&rdquo;. In pratica però tutto dipende da cosa si vuole veramente fare, e dal template
+selezionato. Ce ne sono molti a disposizione, si deve capire quale è il più adatto e quale metterà a
+disposizione tutte le caratteristiche che si vogliono avere. Altrimenti, bisogna imparare come personalizzare
+un template o farne uno nuovo.</p>
+
+                 
+                
+         
+      
+    </div>
+
+    
+   
+
+    <div class="w3-container">
+    	
+      <div class="w3-container">
+        	<hr class = "tag">
+        Tags: 
+          
+          <a class="w3-btn w3-small w3-round w3-green" href="/it/tags/wordpress/">Wordpress</a>
+          
+          <a class="w3-btn w3-small w3-round w3-green" href="/it/tags/hugo/">Hugo</a>
+          
+          <a class="w3-btn w3-small w3-round w3-green" href="/it/tags/bootstrap/">Bootstrap</a>
+          
+          <hr class = "tag">
+       
+        </div>
+     
+	</div>
+
+
+
+  
+
+
+    
+    
+    
+    <div class="w3-container">
+        
+        <h2>Related Articles:</h2>
+        <ul class="w3-ul w3-hoverable">
+            
+            
+
+              <li class="w3-padding-large"><span class="date">2020/05/25</span> &nbsp; <a href="/it/posts/idees/">Idées Suspendues</a></li>
+            
+
+              <li class="w3-padding-large"><span class="date">2020/05/25</span> &nbsp; <a href="/it/posts/datascience-dbd/">Data Science day by day</a></li>
+            
+
+              <li class="w3-padding-large"><span class="date">2020/05/19</span> &nbsp; <a href="/it/posts/safits/">SaF IT Services</a></li>
+            
+        </ul>
+    </div>
+    
+    
+    <br>  
+</div>
+
+
+
+<div class="w3-container w3-card-2 w3-black">
+<div class="w3-row">
+  <div class="w3-col l2 m2 s12 w3-center">
+  
+    <img src="/anto.jpg" width ="100px" class="w3-circle w3-center w3-margin-top w3-margin-bottom" alt="author" >
+   
+  </div>
+  <div class="w3-col l10 m10 s12 ">
+  <div class = "w3-container w3-margin-top">
+    <h4>Amministrato da Anto</h4>
+    <p class="w3-small">Ad Anto piace imparare. Questo sito fa parte della familiarizzazione con Hugo. La licenza per questo e tutti gli altri articoli è:  <a rel="license" href="https://creativecommons.org/licenses/by/4.0/" class="w3-text-white">Creative Commons Attribution 4.0 International License</a>.</p>
+  </div>
+  </div>
+  </div>
+</div>
+
+      
+    <div class="w3-content" > 
+      <div class="w3-bar w3-section">
+	     
+	      <a  href="https://anfe67.github.io/it/posts/multilingual/" class="w3-btn w3-text-indigo w3-hover-green">
+	          &#10094; Siti multilingua con Hugo
+	      </a>
+	    
+	      <a class="w3-btn w3-right w3-text-indigo w3-hover-green" href="https://anfe67.github.io/it/posts/idees/">
+	       Idées Suspendues &#10095;
+	      </a>
+  	  </div>
+    </div>
+	
+ 
+
+  
+  
+  
+        </div>
+        
+          <script>
+  shareurl=encodeURIComponent(location.protocol + '//' + location.host + location.pathname);
+  sharetitle=encodeURIComponent(document.title);
+
+  </script>
+<div class="icon-bar">
+<script>
+document.write( '<a href="javascript:bookmark();" class="bookmark w3-tooltip"><i class="fa fa-bookmark"></i><span style="position:absolute;left:40px;bottom:18px" class="w3-text w3-small w3-tag w3-round w3-green ">Bookmark this page</span></a> ');
+
+document.write( '<a href="http://www.facebook.com/sharer.php?u='+shareurl+'" onclick="window.open(this.href, \'mywin\',\'left=20,top=20,width=500,height=500,toolbar=1,resizable=0\'); return false;" class="facebook w3-tooltip"><i class="fa fa-facebook "></i><span style="position:absolute;left:40px;bottom:18px" class="w3-text w3-small w3-tag w3-round w3-green">Share to Facebook</span></a> ');
+
+document.write( '<a href="https://twitter.com/share?url='+shareurl+'&amp;text='+sharetitle+'" onclick="window.open(this.href, \'mywin\',\'left=20,top=20,width=500,height=500,toolbar=1,resizable=0\'); return false;" class="twitter w3-tooltip"><i class="fa fa-twitter"></i><span style="position:absolute;left:40px;bottom:18px" class="w3-text w3-small w3-tag w3-round w3-green">Share to Twitter</span></a> ');
+
+document.write( '<a href="http://www.linkedin.com/shareArticle?mini=true&amp;url='+shareurl+'" onclick="window.open(this.href, \'mywin\',\'left=20,top=20,width=500,height=500,toolbar=1,resizable=0\'); return false;" class="linkedin w3-tooltip"><i class="fa fa-linkedin"></i><span style="position:absolute;left:40px;bottom:18px" class="w3-text w3-small w3-tag w3-round w3-green">Share to Linkedin</span></a>');
+
+</script>
+
+<script>
+function bookmark(){
+
+if ('sidebar' in window && 'addPanel' in window.sidebar) {
+                window.sidebar.addPanel(location.href,document.title,"");
+            } else if(  false) { 
+                window.external.AddFavorite(location.href,document.title);
+            } else { 
+                alert('Press ' + (navigator.userAgent.toLowerCase().indexOf('mac') != - 1 ? 'Command/Cmd' : 'CTRL') + ' + D to bookmark this page.');
+            }
+        }
+
+</script>
+</div>
+
+        
+           
+          
+  
+
+        
+        
+      </div>
+    
+
+   
+    <footer id="footer" >
+      <div class="w3-container w3-center w3-padding-32"> 
+  
+  <hr class="headfoot">
+  <p>Powered by <a href="https://gohugo.io">Hugo</a> | Theme - <a href="https://github.com/jesselau76/hugo-w3-simple">Hugo W3 Simple</a>
+  </p>
+  © <a href="http://antonio-ferraro.eu5.net/about-myself/">Anto</a> 2020 | <a href="https://www.linkedin.com/in/antonio-ferraro-860b1825/">Linkedin</a> | <a href="https://www.facebook.com/AntonioFerraro.67">Facebook</a>
+  
+</div>
+
+    </footer>
+    
+
+    
+  </div>
+
+  
+
+  
+    
+      <div id="backtotop" class="w3-hide-small w3-hide-medium">
+  
+        <button onclick="topFunction()" class="w3-btn w3-red w3-large" style="width:160px">Back To Top
+        &rarr;</button>
+        
+      </div>
+
+      <script>
+        function topFunction() {
+          document.body.scrollTop = 0;
+          document.documentElement.scrollTop = 0;
+      }
+      </script>
+
+
+    
+ 
+    
+    <script>
+    
+    function isVisible(elem) {
+
+      let coords = elem.getBoundingClientRect();
+
+      let windowHeight = document.documentElement.clientHeight;
+
+      
+      let topVisible = coords.top > 0 && coords.top < windowHeight;
+      let bottomVisible = coords.bottom < windowHeight && coords.bottom > 0;
+
+      return topVisible || bottomVisible;
+    }
+
+    
+
+    function showVisible() {
+      for (let img of document.querySelectorAll('img')) {
+        let realSrc = img.dataset.src;
+        if (!realSrc) continue;
+
+        if (isVisible(img)) {
+          
+
+          img.src = realSrc;
+
+          img.dataset.src = '';
+        }
+      }
+      if ( Array.from(document.querySelectorAll('[data-src]')).every(
+        img => img.getAttribute('data-src') === '') ) {
+        window.removeEventListener('scroll', showVisible)
+      }
+
+    }
+
+    window.addEventListener('scroll', showVisible);
+    showVisible();
+  </script>
+
+
+    
+    
+      <div class="progress-container" id="scrollbar">
+        <div class="progress-bar" id="progress-bar"></div>
+      </div>  
+
+
+    
+<script>
+
+window.onscroll = function() {scrollFunction()};
+
+function scrollFunction() {
+  <!-- TOC -->
+    
+    
+    
+    if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+        document.getElementById("toc").style.display = "block";
+    } else {
+        document.getElementById("toc").style.display = "none";
+    }
+    
+    
+    <!-- cookie bar -->
+    
+<!-- Back to top -->
+    
+    if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
+        document.getElementById("backtotop").style.display = "block";
+    } else {
+        document.getElementById("backtotop").style.display = "none";
+    }
+    
+    <!-- scroll indicator -->
+    
+      var winScroll = document.body.scrollTop || document.documentElement.scrollTop;
+      var height = document.documentElement.scrollHeight - document.documentElement.clientHeight;
+      var scrolled = (winScroll / height) * 100;
+      document.getElementById("progress-bar").style.width = scrolled + "%";
+      if (document.body.scrollTop > 20 || document.documentElement.scrollTop > 20) {
+            document.getElementById("scrollbar").style.display = "block";
+        } else {
+            document.getElementById("scrollbar").style.display = "none";
+        }
+    
+
+    
+
+    <!-- allowads -->
+    
+}
+
+
+</script>
+
+
+
+  
+
+</body>
+</html>

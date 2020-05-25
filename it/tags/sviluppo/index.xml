@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>sviluppo on </title>
+    <link>https://anfe67.github.io/it/tags/sviluppo/</link>
+    <description>Recent content in sviluppo on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 11:51:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/it/tags/sviluppo/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Apprenons Python</title>
+      <link>https://anfe67.github.io/it/posts/app-python/</link>
+      <pubDate>Tue, 19 May 2020 11:35:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/app-python/</guid>
+      <description>Apprenons Python Apprenons Python en jouant è un sito che ho costruito come complemento ad un viaggio che ho intrapreso nell&amp;rsquo;insegnamento della programmazione Python per ragazzi.
+Il sito (e tutto il resto) è iniziato come tentativo di rispondere ad una domanda molto innocente da parte di mio figlio e di uno dei suoi amici: &amp;ldquo;come si scrive un videogioco&amp;rdquo;.
+Questo nostro viaggio è iniziato un paio di anni fa e da allora abbiamo esplorato il mondo dei videogiochi testuali, quelli grafici, abbiamo fatto un po&amp;rsquo; di sviluppo web, di &amp;ldquo;informatica fisica&amp;rdquo; con il Raspberry Pi&amp;hellip; eccetera.</description>
+    </item>
+    
+  </channel>
+</rss>

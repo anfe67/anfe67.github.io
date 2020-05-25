@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>inkscape on </title>
+    <link>https://anfe67.github.io/it/tags/inkscape/</link>
+    <description>Recent content in inkscape on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 11:40:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/it/tags/inkscape/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Codici QR di tipo VCARD con Inkscape</title>
+      <link>https://anfe67.github.io/it/posts/qrcodes/</link>
+      <pubDate>Mon, 25 May 2020 11:40:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/qrcodes/</guid>
+      <description>Un plugin Inkscape plugin per generare VCARD in Codici QR VCARD. Questo progetto si basa su un plugin per inkscape scritto da Sergey Vedernikov, a sua volta basato sul lavoro di altri.
+La mia versione consiste in una piccolissima modifica al plugin che Sergey ha postato su un forum di Inkskape. Ho generato infatti delle VCARD che contengono un campo opzionale &amp;ldquo;Website&amp;rdquo; invece del compleanno del contatto (e anche l&amp;rsquo;interfaccia è consistente).</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>SQL on </title>
+    <link>https://anfe67.github.io/it/tags/sql/</link>
+    <description>Recent content in SQL on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 11:34:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/it/tags/sql/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Data Science day by day</title>
+      <link>https://anfe67.github.io/it/posts/datascience-dbd/</link>
+      <pubDate>Mon, 25 May 2020 11:34:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/datascience-dbd/</guid>
+      <description>Data Science day by day Data Science day by day è il mio sito dedicato alla Scienza dei Dati o &amp;ldquo;Data Science&amp;rdquo;. Nel 2015 ho iniziato ad esplorare i campi del Data Science, Machine Learning etc.
+Sono un informatico di lungo corso e tutto questo non mi suonava affatto nuovo. Ma ho voluto imparare e aggiornarmi con gli sviluppi più recenti, mettermi in linea con le terminologie e gli strumenti.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multilingua on </title>
+    <link>https://anfe67.github.io/it/tags/multilingua/</link>
+    <description>Recent content in multilingua on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 14:50:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/it/tags/multilingua/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Siti multilingua con Hugo</title>
+      <link>https://anfe67.github.io/it/posts/multilingual/</link>
+      <pubDate>Mon, 25 May 2020 14:50:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/multilingual/</guid>
+      <description>Siti multilingua con Hugo A che velocità si può tradurre un sito web? Dipende naturalmente da parecchie cose. Il mio test riguarda l&amp;rsquo;aggiunta di una nuova lingua a un sito Hugo esistente, (ho scelto l&amp;rsquo;Italiano) e di tradurre l&amp;rsquo;intero sito che al momento conta 9 articoli, la pagina delle informazioni, il titolo e il menu. Il tutto può essere fatto in circa 1 ora e mezza, senza correre a perdifiato. Dopodiché, il sito sarà pronto ad accogliere le versioni in lingua dei nuovi articoli, che potranno anche essere create in un secondo momento.</description>
+    </item>
+    
+  </channel>
+</rss>

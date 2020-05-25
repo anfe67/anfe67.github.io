@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Wordpress on </title>
+    <link>https://anfe67.github.io/it/tags/wordpress/</link>
+    <description>Recent content in Wordpress on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 13:50:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/it/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Confronto della Velocità</title>
+      <link>https://anfe67.github.io/it/posts/confronto-tecniche/</link>
+      <pubDate>Mon, 25 May 2020 13:50:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/confronto-tecniche/</guid>
+      <description>Messa a confronto di diverse tecnologie web per quanto riguarda la velocità (senza ottimizzazioni) Non sono uno sviluppatore web professionista, ma mi piace giocare con le varie tecnologie a disposizione. Volevo confrontarne alcune allo scopo di valutare la velocità dei siti ottenuti impiegando queste tecnologie. Per i confronti, ho usato principalmente il sito GTMetrix.
+Ho eseguito i test confrontando cinque siti web, di cui sono l&amp;rsquo;autore. Questo, che è redatto usando Hugo, e gli altri presentati in altri articoli su queste pagine.</description>
+    </item>
+    
+    <item>
+      <title>Idées Suspendues</title>
+      <link>https://anfe67.github.io/it/posts/idees/</link>
+      <pubDate>Mon, 25 May 2020 11:51:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/idees/</guid>
+      <description>Idées Suspendues Tutto nasce a seguito della pandemia del COVID-19, e dalla voglia di ricominciare ma in sicurezza. Noi non vogliamo che la piccola economia, quella che chiamiamo l&amp;rsquo;economia &amp;ldquo;Reale&amp;rdquo; muoia a causa di questo virus.
+Il sito si trova su Idées Suspendues e l&amp;rsquo;idea di base è questa:
+
+Dopo la riapertura dei negozi, tutti ci chiediamo come i ristoranti si adatteranno alle nuove regole di sicurezza per accogliere di nuovo i loro clienti.</description>
+    </item>
+    
+    <item>
+      <title>Data Science day by day</title>
+      <link>https://anfe67.github.io/it/posts/datascience-dbd/</link>
+      <pubDate>Mon, 25 May 2020 11:34:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/datascience-dbd/</guid>
+      <description>Data Science day by day Data Science day by day è il mio sito dedicato alla Scienza dei Dati o &amp;ldquo;Data Science&amp;rdquo;. Nel 2015 ho iniziato ad esplorare i campi del Data Science, Machine Learning etc.
+Sono un informatico di lungo corso e tutto questo non mi suonava affatto nuovo. Ma ho voluto imparare e aggiornarmi con gli sviluppi più recenti, mettermi in linea con le terminologie e gli strumenti.</description>
+    </item>
+    
+  </channel>
+</rss>

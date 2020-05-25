@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS on </title>
+    <link>https://anfe67.github.io/it/tags/css/</link>
+    <description>Recent content in CSS on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 19 May 2020 11:50:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/it/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>SaF IT Services</title>
+      <link>https://anfe67.github.io/it/posts/safits/</link>
+      <pubDate>Tue, 19 May 2020 11:50:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/safits/</guid>
+      <description>Il sito wed di SaF IT Services Circa un anno fa, ho fondato insieme a Fritz e Stefy la nostra società, SaF IT Services. Il sito web è ospitato da Easyhost Belgium ed è un sito semplice, che si basa solo su:
+ HTML CSS Bootstrap JS  Per realizzare il sito ho usato un template bootstrap liberamente disponibile che si chiama Freelancer. Nel realizzare questo sito ho tenuto conto di questi parametri che per me erano importanti:</description>
+    </item>
+    
+  </channel>
+</rss>

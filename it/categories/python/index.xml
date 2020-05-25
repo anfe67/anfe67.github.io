@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on </title>
+    <link>https://anfe67.github.io/it/categories/python/</link>
+    <description>Recent content in Python on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 11:40:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/it/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Codici QR di tipo VCARD con Inkscape</title>
+      <link>https://anfe67.github.io/it/posts/qrcodes/</link>
+      <pubDate>Mon, 25 May 2020 11:40:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/qrcodes/</guid>
+      <description>Un plugin Inkscape plugin per generare VCARD in Codici QR VCARD. Questo progetto si basa su un plugin per inkscape scritto da Sergey Vedernikov, a sua volta basato sul lavoro di altri.
+La mia versione consiste in una piccolissima modifica al plugin che Sergey ha postato su un forum di Inkskape. Ho generato infatti delle VCARD che contengono un campo opzionale &amp;ldquo;Website&amp;rdquo; invece del compleanno del contatto (e anche l&amp;rsquo;interfaccia è consistente).</description>
+    </item>
+    
+    <item>
+      <title>Data Science day by day</title>
+      <link>https://anfe67.github.io/it/posts/datascience-dbd/</link>
+      <pubDate>Mon, 25 May 2020 11:34:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/datascience-dbd/</guid>
+      <description>Data Science day by day Data Science day by day è il mio sito dedicato alla Scienza dei Dati o &amp;ldquo;Data Science&amp;rdquo;. Nel 2015 ho iniziato ad esplorare i campi del Data Science, Machine Learning etc.
+Sono un informatico di lungo corso e tutto questo non mi suonava affatto nuovo. Ma ho voluto imparare e aggiornarmi con gli sviluppi più recenti, mettermi in linea con le terminologie e gli strumenti.</description>
+    </item>
+    
+    <item>
+      <title>Apprenons Python</title>
+      <link>https://anfe67.github.io/it/posts/app-python/</link>
+      <pubDate>Tue, 19 May 2020 11:35:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/app-python/</guid>
+      <description>Apprenons Python Apprenons Python en jouant è un sito che ho costruito come complemento ad un viaggio che ho intrapreso nell&amp;rsquo;insegnamento della programmazione Python per ragazzi.
+Il sito (e tutto il resto) è iniziato come tentativo di rispondere ad una domanda molto innocente da parte di mio figlio e di uno dei suoi amici: &amp;ldquo;come si scrive un videogioco&amp;rdquo;.
+Questo nostro viaggio è iniziato un paio di anni fa e da allora abbiamo esplorato il mondo dei videogiochi testuali, quelli grafici, abbiamo fatto un po&amp;rsquo; di sviluppo web, di &amp;ldquo;informatica fisica&amp;rdquo; con il Raspberry Pi&amp;hellip; eccetera.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DS on </title>
+    <link>https://anfe67.github.io/it/tags/ds/</link>
+    <description>Recent content in DS on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 11:27:13 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/it/tags/ds/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Progetto Capstone Specializzazione DS</title>
+      <link>https://anfe67.github.io/it/posts/ds-capstone/</link>
+      <pubDate>Mon, 25 May 2020 11:27:13 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/posts/ds-capstone/</guid>
+      <description>Specializzazione Data Science - Progetto Capstone Questo progetto rappresenta il capitolo (corso MOOC) finale della [Specializzazione in Data Science della JHU su Coursera] (https://www.coursera.org/specializations/jhu-data-science).
+Il progetto consiste nel costruire una &amp;ldquo;tastiera intelligente&amp;rdquo; che prova ad indovinare la prossima parola digitata basandosi su quanto digitato fino ad ora. Le predizioni sono fatte sulla base di una serie di testi (articoli, tweets e emails). Il programma deve anche esser capace di capire se si sta usando delle parolacce ed eliminarle dal testo digitato.</description>
+    </item>
+    
+  </channel>
+</rss>

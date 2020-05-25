@@ -6,10 +6,19 @@
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 May 2020 22:50:29 +0200</lastBuildDate>
+    <lastBuildDate>Mon, 25 May 2020 14:50:29 +0200</lastBuildDate>
     
 	<atom:link href="https://anfe67.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Multilingual sites in Hugo</title>
+      <link>https://anfe67.github.io/posts/multilingual/</link>
+      <pubDate>Mon, 25 May 2020 14:50:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/posts/multilingual/</guid>
+      <description>Multilingual sites in Hugo How fast can you translate a web site? Of course it depends on a numbers of things. However, I wanted to test how long would it take to add a new language to a Hugo site (I picked Italian) and to translate the whole site, including 9 posts, the about page and the menu. It can be done in about 1 hour - 1 hour 30 minutes.</description>
+    </item>
     
     <item>
       <title>Speed Comparison</title>

@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on </title>
+    <link>https://anfe67.github.io/it/categories/</link>
+    <description>Recent content in Categories on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 25 May 2020 14:50:29 +0200</lastBuildDate>
+    
+	<atom:link href="https://anfe67.github.io/it/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Sviluppo Web</title>
+      <link>https://anfe67.github.io/it/categories/sviluppo-web/</link>
+      <pubDate>Mon, 25 May 2020 14:50:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/categories/sviluppo-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sviluppo Siti Web</title>
+      <link>https://anfe67.github.io/it/categories/sviluppo-siti-web/</link>
+      <pubDate>Mon, 25 May 2020 11:51:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/categories/sviluppo-siti-web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plugin oer applicazioni</title>
+      <link>https://anfe67.github.io/it/categories/plugin-oer-applicazioni/</link>
+      <pubDate>Mon, 25 May 2020 11:40:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/categories/plugin-oer-applicazioni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>https://anfe67.github.io/it/categories/python/</link>
+      <pubDate>Mon, 25 May 2020 11:40:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/categories/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programmazione</title>
+      <link>https://anfe67.github.io/it/categories/programmazione/</link>
+      <pubDate>Mon, 25 May 2020 11:34:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/categories/programmazione/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://anfe67.github.io/it/categories/r/</link>
+      <pubDate>Mon, 25 May 2020 11:34:29 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Science</title>
+      <link>https://anfe67.github.io/it/categories/data-science/</link>
+      <pubDate>Mon, 25 May 2020 11:27:13 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/categories/data-science/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NATO</title>
+      <link>https://anfe67.github.io/it/categories/nato/</link>
+      <pubDate>Mon, 25 May 2020 11:17:14 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/categories/nato/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work</title>
+      <link>https://anfe67.github.io/it/categories/work/</link>
+      <pubDate>Mon, 25 May 2020 11:17:14 +0200</pubDate>
+      
+      <guid>https://anfe67.github.io/it/categories/work/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
