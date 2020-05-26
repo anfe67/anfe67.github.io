@@ -158,21 +158,6 @@
   </url>
   
   <url>
-    <loc>https://anfe67.github.io/it/tags/plugin/</loc>
-    <lastmod>2020-05-25T11:51:29+02:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://anfe67.github.io/tags/plugin/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="it"
-                href="https://anfe67.github.io/it/tags/plugin/"
-                />
-  </url>
-  
-  <url>
     <loc>https://anfe67.github.io/it/tags/plugins/</loc>
     <lastmod>2020-05-25T11:51:29+02:00</lastmod>
     <xhtml:link
@@ -185,11 +170,6 @@
                 hreflang="it"
                 href="https://anfe67.github.io/it/tags/plugins/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://anfe67.github.io/it/tags/sviluppo/</loc>
-    <lastmod>2020-05-25T11:51:29+02:00</lastmod>
   </url>
   
   <url>
@@ -229,6 +209,21 @@
                 rel="alternate"
                 hreflang="it"
                 href="https://anfe67.github.io/it/tags/inkscape/"
+                />
+  </url>
+  
+  <url>
+    <loc>https://anfe67.github.io/it/tags/plugin/</loc>
+    <lastmod>2020-05-25T11:40:29+02:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://anfe67.github.io/tags/plugin/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="it"
+                href="https://anfe67.github.io/it/tags/plugin/"
                 />
   </url>
   
@@ -584,6 +579,11 @@
   
   <url>
     <loc>https://anfe67.github.io/it/tags/insegnamento/</loc>
+    <lastmod>2020-05-19T11:35:29+02:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://anfe67.github.io/it/tags/sviluppo/</loc>
     <lastmod>2020-05-19T11:35:29+02:00</lastmod>
   </url>
   
